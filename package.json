@@ -1,0 +1,20 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "this is todo app for sake of testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start" : "nodemon index.js"
+  },
+  "author": "mahmoud khedr (mk)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
