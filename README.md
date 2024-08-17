@@ -9,3 +9,5 @@ to this app you will need:-
 api testing done using postman
 
 used packages will be in package.json
+
+you should run setup.sql in create the database the it's user.
